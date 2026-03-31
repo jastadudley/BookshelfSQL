@@ -156,7 +156,7 @@ if __name__ == "__main__":
     add_book('The House of the Scorpion', 2, 2, 2002, 4.0)
     add_book('Dune', 3, 3, 1965, 4.2)
 
-        # Read all books and authors
+    # Read all books and authors
     get_all_books()
     get_all_authors()
 
